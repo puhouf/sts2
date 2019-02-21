@@ -20,6 +20,7 @@ class TestCluster {
 		String value = jc.get("foo");
 		System.out.println(value);
 		System.out.println("update by remote git");
+		System.out.println("update by local");
 	}
 
 
