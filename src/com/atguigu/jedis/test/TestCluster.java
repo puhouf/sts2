@@ -21,6 +21,7 @@ class TestCluster {
 		System.out.println(value);
 		System.out.println("update by remote git");
 		System.out.println("update by local");
+		System.out.println("update by remote git yanbaobao");
 	}
 
 
